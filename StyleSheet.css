@@ -1,0 +1,48 @@
+﻿body {
+    background-color:tan;
+}
+
+.picresize{
+    width:400px;
+    height:400px;
+    display:block;
+    margin:auto;
+}
+
+.firstpara{
+    text-align: center;
+}
+
+.hours{
+    color:red;
+    text-align:center;
+}
+
+.about{
+    text-align: center;
+}
+
+div.relative {
+    position: relative;
+    left: 30px;
+    border: 3px solid #73AD21;
+}
+
+.list{
+    padding-left:0;
+    list-style-position:outside;
+    text-align:center;
+    list-style-type:none;
+}
+
+.drinktypes{
+    text-align:center;
+}
+
+.drinknames{
+    font-size:20px;
+    color:forestgreen;
+    text
+}
+
+
